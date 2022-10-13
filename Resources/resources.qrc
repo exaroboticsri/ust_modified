@@ -1,0 +1,51 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="seoultech_emblem.gif">seoultech_emblem.gif</file>
+        <file alias="seoultech_emblem.jpg">seoultech_emblem.jpg</file>
+        <file alias="seoultech_emblem.png">seoultech_emblem.png</file>
+        <file alias="seoultech_icon.gif">seoultech_icon.gif</file>
+        <file alias="seoultech_icon.png">seoultech_icon.png</file>
+        <file alias="seoultech_wide.jpg">seoultech_wide.jpg</file>
+        <file alias="seoultech_wide.png">seoultech_wide.png</file>
+        <file alias="seoultech_wide.png">seoultech_wide.png</file>
+        <file alias="seoultech_wide2.jpg">seoultech_wide2.jpg</file>
+        <file alias="add.png">add.png</file>
+        <file alias="del.png">del.png</file>
+        <file alias="play.png">play.png</file>
+        <file alias="clear2.png">clear2.png</file>
+        <file alias="save_image.png">save_image.png</file>
+        <file alias="save_table.png">save_table.png</file>
+        <file alias="led_gray.png">led_gray.png</file>
+        <file alias="led_red.png">led_red.png</file>
+        <file alias="led_yellow.png">led_yellow.png</file>
+        <file alias="led_green.png">led_green.png</file>
+        <file alias="clear.png">clear.png</file>
+        <file alias="font_minus.png">font_minus.png</file>
+        <file alias="font_plus.png">font_plus.png</file>
+        <file alias="save.png">save.png</file>
+        <file alias="connect.png">connect.png</file>
+        <file alias="disconnect.png">disconnect.png</file>
+        <file alias="ethernet_open.png">ethernet_open.png</file>
+        <file alias="ethernet_close.png">ethernet_close.png</file>
+        <file alias="reset.png">reset.png</file>
+        <file alias="close_box_red.ico">close_box_red.ico</file>
+        <file alias="path.png">path.png</file>
+        <file alias="serial_port_icon.svg">serial_port_icon.svg</file>
+        <file alias="camera.png">camera.png</file>
+        <file alias="tts.png">tts.png</file>
+        <file alias="mic.png">mic.png</file>
+
+
+
+    </qresource>
+</RCC>
+
+<!-- add icon: https://iconarchive.com/show/button-icons-by-hopstarter/Button-Add-icon.html -->
+<!-- delete icon: https://iconarchive.com/show/button-icons-by-hopstarter/Button-Delete-icon.html -->
+<!-- start icon: https://iconarchive.com/show/button-icons-by-hopstarter/Button-Play-icon.html -->
+<!-- clear icon: https://iconarchive.com/show/button-icons-by-hopstarter/Button-Close-icon.html -->
+
+
+
+
